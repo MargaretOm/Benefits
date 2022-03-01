@@ -1,0 +1,122 @@
+{
+    "categoriesList": [
+        {
+            "id": 2,
+            "title": "Еда и напитки"
+        },
+        {
+            "id": 3,
+            "title": "Развлечения"
+        },
+        {
+            "id": 4,
+            "title": "Обучение"
+        },
+        {
+            "id": 5,
+            "title": "Одежда"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "title": "Новинки",
+            "cards": [
+                {
+                    "id": 1,
+                    "image": "https://www.gastronom.ru/binfiles/images/20191113/bd570867.jpg",
+                    "sale": "-10% по промокоду"
+                },
+                {
+                    "id": 2,
+                    "image": "https://brand-info.com.ua/wp-content/uploads/2020/12/pullbear-logo.jpg",
+                    "sale": "-10%"
+                },
+                {
+                    "id": 3,
+                    "image": "https://fitness-national.com/assets/images/13-04-2021/24131654-728250697378581-821734354207160088-o.jpg",
+                    "sale": "-20% по промокоду"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Еда и напитки",
+            "cards": [
+                {
+                    "id": 1,
+                    "name": "Мармеладки",
+                    "image": "https://kartinkin.net/uploads/posts/2021-07/thumbs/1627648461_26-kartinkin-com-p-marmelad-vesovoi-yeda-krasivo-foto-28.jpg",
+                    "sale": "-30% по промокоду"
+                },
+                {
+                    "id": 2,
+                    "name": "Суши Годзила",
+                    "image": "https://st2.depositphotos.com/2287637/9729/i/600/depositphotos_97290530-stock-photo-sushi-set-on-black-stone.jpg",
+                    "sale": "от -20% до -30% на суши"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Развлечения",
+            "cards": [
+                {
+                    "id": 1,
+                    "name": "Лепка из глины",
+                    "image": "https://st.biglion.ru/c/w/672/h/378/cfs15/deal_offer/04/44/0444f1bdc8f105be895b5a7970ed9d15.jpg",
+                    "sale": "-50%"
+                },
+                {
+                    "id": 2,
+                    "name": "Квадрациклы",
+                    "image": "https://mototeamrussia.com/media/y19d215/e54706d6a9144570bae3fa1076db73b1_article.jpg",
+                    "sale": "-40% по купону"
+                },
+                {
+                    "id": 3,
+                    "name": "Волейбол",
+                    "image": "https://realnoevremya.ru/uploads/articles/03/30/ca15f15e2c61e772.jpg",
+                    "sale": "-20% на абонементы"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Обучение",
+            "cards": [
+                {
+                    "id": 1,
+                    "name": "skyeng",
+                    "image": "https://platforms.su/assets/user/img/product-logo/skyeng.png",
+                    "sale": "-10% на 10 занятий"
+                },
+                {
+                    "id": 2,
+                    "name": "Автошкола",
+                    "image": "https://www.autocourses.dp.ua/wp-content/uploads/2021/02/MV8VcH_XjSN0k5Qzz2QsVB-pBrC2jpbf.jpg",
+                    "sale": "-10%"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Одежда",
+            "cards": [
+                {
+                    "id": 2,
+                    "name": "H&M",
+                    "image": "https://nasha-germania.com/Media/files/filemanager/07.01.2017/3-2021/13-New%20folder/H%26M.jpg",
+                    "sale": "Скидки до 70%"
+                },
+                {
+                    "id": 1,
+                    "name": "ZARA",
+                    "image": "https://papik.pro/uploads/posts/2021-11/1636143773_1-papik-pro-p-zara-logotip-foto-1.jpg",
+                    "sale": "5% по скидочному купону"
+                }
+                
+            ]
+        }
+    ]
+}
